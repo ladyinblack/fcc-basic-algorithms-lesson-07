@@ -25,3 +25,6 @@ Make the variable created store the current value and append the word to it.
 - Then we add the string to the variable created on step one inside of the loop.
 - At the end of the loop, return the variable for the repeated word.
 
+### REFERENCE LINKS
+- [JS For Loops Explained](https://forum.freecodecamp.com/t/javascript-for-loop/14666s-Explained)
+
