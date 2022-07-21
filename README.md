@@ -15,5 +15,13 @@ Create a loop to repeat the code as many times as needed.
 ### Hint 3
 Make the variable created store the current value and append the word to it.
 
+
 ### REFERENCE LINKS
 - [Global String Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
+### Code Explanation (of Solution as ABOVE)
+- Create an empty string variable to store the repeated word.
+- Use a `for` loop to repeat each code as many times as needed according to `num`.
+- Then we add the string to the variable created on step one inside of the loop.
+- At the end of the loop, return the variable for the repeated word.
+
